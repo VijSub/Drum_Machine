@@ -17,7 +17,7 @@ The Drum Machine is a digital percussion instrument interface. It features nine 
 Each button is mapped to a key on the keyboard for quick and easy use. This Drum Machine is perfect for creating beats on the fly, whether you're a seasoned drummer or just starting out.
 
 You can access the Drum Machine through this link:
-Update link!!!
+https://vijay-drum-machine.netlify.app/
 <br />
 
 <h2>Languages and Utilities Used</h2>
