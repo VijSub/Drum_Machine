@@ -2,8 +2,6 @@
 
 <h2>Description</h2>
 
-<h2>Description</h2>
-
 The Drum Machine is a digital percussion instrument interface. It features nine distinct buttons, each triggering a unique drum sound. The sounds include:
 
 - **Heater 1**: A warm, bass-heavy beat.
